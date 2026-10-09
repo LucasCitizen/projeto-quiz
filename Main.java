@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Nome: Miguel Solon Augusto Lemes de Almeida");
+        System.out.println("Nome: Lucas Dos Santos Cavalheiro");
         System.out.println("Professor: Brenno Pimenta da Costa");
         System.out.println("Faculdade: UNIFAN - Centro Universitário Alfredo Nasser");
         System.out.println("Tema: O Mundo Otaku (Animes e Mangás)");
